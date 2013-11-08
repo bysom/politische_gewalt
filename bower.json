@@ -1,0 +1,22 @@
+{
+  "name": "politische_gewalt",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bysom/politische_gewalt",
+  "authors": [
+    "bysom <mail@bysom.org>"
+  ],
+  "description": "Eine visualisierung der politischen Gewalt in Deutschland anhand der Antworten der Bundesregierung auf kleine Anfragen derselben.",
+  "main": "app.js",
+  "keywords": [
+    "Politische Gewalt",
+    "D3"
+  ],
+  "license": "Public Domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
