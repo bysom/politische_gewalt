@@ -1,7 +1,7 @@
 Visualisierung der politisch motivierten Gewalt in Deutschland
 ==============================================================
 
-Eine visualisierung der politisch motivierten Gewalt in Deutschland anhand der Antworten der Bundesregierung auf kleine Anfragen derselben.
+Eine Visualisierung der politisch motivierten Gewalt in Deutschland anhand der Antworten der Bundesregierung auf kleine Anfragen derselben.
 
 
 Installation
