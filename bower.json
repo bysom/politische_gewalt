@@ -18,5 +18,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "d3": "*",
+    "jquery": "*",
+    "jquery-ui": "*"
+  }
+
 }
