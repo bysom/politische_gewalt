@@ -1,0 +1,22 @@
+pgid	monat	politisch_motivierte_gewalt	pm_gewalttaten	pm_propaganda	pm_verletzt	pm_ermittelt	pm_festnahmen	pm_haftbefehl	pm_rechts	pm_links	pm_auslaender	pm_sonstige	pm_quelle	pm_tote
+"2"	"2013-08-01"	2679	208	878	129	1337	71	1	1232	658	38	751	"http://dip21.bundestag.de/dip21/btd/17/148/1714818.pdf"	0
+"3"	"2013-07-01"	1604	99	866	67	861	14	5	1079	278	42	205	"http://dip21.bundestag.de/dip21/btd/17/147/1714701.pdf"	0
+"4"	"2013-06-01"	1477	149	676	133	964	17	0	865	379	58	175	"http://dip21.bundestag.de/dip21/btd/17/145/1714506.pdf"	0
+"5"	"2013-05-01"	1956	267	848	183	1064	51	1	1087	652	46	171	"http://dip21.bundestag.de/dip21/btd/17/143/1714338.pdf"	0
+"6"	"2013-04-01"	1641	111	778	91	800	47	0	1025	429	34	153	"http://dip21.bundestag.de/dip21/btd/17/137/1713783.pdf"	0
+"7"	"2013-03-01"	1660	141	760	97	976	55	1	980	447	52	181	"http://dip21.bundestag.de/dip21/btd/17/133/1713376.pdf"	0
+"8"	"2013-02-01"	1447	113	772	64	586	23	1	941	352	35	119	"http://dip21.bundestag.de/dip21/btd/17/129/1712986.pdf"	0
+"9"	"2013-01-01"	1351	99	622	44	570	14	0	794	309	38	210	"http://dip21.bundestag.de/dip21/btd/17/126/1712648.pdf"	0
+"10"	"2012-12-01"	1137	75	576	57	541	23	3	755	212	21	149	"http://dip21.bundestag.de/dip21/btd/17/122/1712276.pdf"	0
+"11"	"2012-11-01"	1490	155	728	62	884	42	0	943	367	55	125	"http://dip21.bundestag.de/dip21/btd/17/120/1712038.pdf"	0
+"12"	"2012-10-01"	1433	115	722	85	642	18	0	929	294	61	149	"http://dip21.bundestag.de/dip21/btd/17/117/1711773.pdf"	0
+"13"	"2012-09-01"	1372	103	688	94	614	26	0	923	243	80	126	"http://dip21.bundestag.de/dip21/btd/17/113/1711300.pdf"	0
+"14"	"2012-08-01"	1462	121	743	71	723	35	0	1016	285	21	140	"http://dipbt.bundestag.de/dip21/btd/17/109/1710952.pdf"	0
+"15"	"2012-07-01"	1352	111	779	75	700	19	2	973	234	28	117	"http://dip21.bundestag.de/dip21/btd/17/105/1710599.pdf"	0
+"16"	"2012-06-01"	1431	134	750	78	668	18	2	898	368	25	140	"http://dip21.bundestag.de/dip21/btd/17/104/1710441.pdf"	0
+"17"	"2012-05-01"	1822	217	837	107	1095	63	1	1044	548	59	171	"http://dip21.bundestag.de/dip21/btd/17/102/1710275.pdf"	0
+"18"	"2012-04-01"	1600	123	747	94	696	40	2	987	387	73	153	"http://dip21.bundestag.de/dip21/btd/17/098/1709884.pdf"	0
+"19"	"2012-03-01"	1845	140	936	112	865	39	26	1198	441	35	171	"http://dip21.bundestag.de/dip21/btd/17/095/1709534.pdf"	0
+"20"	"2012-02-01"	1573	120	757	79	745	25	0	973	377	41	182	"http://dip21.bundestag.de/dip21/btd/17/092/1709267.pdf"	0
+"21"	"2012-01-01"	1597	136	808	104	756	30	0	1021	365	43	168	"http://dip21.bundestag.de/dip21/btd/17/089/1708963.pdf"	0
+""	""												""	
